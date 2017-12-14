@@ -1,0 +1,17 @@
+No-reply@elearning-cegos.es
+Cegos2017
+
+POP
+Nombre de servidor: outlook.office365.com
+Puerto: 995
+Método de cifrado: TLS
+
+IMAP
+Nombre de servidor: outlook.office365.com
+Puerto: 993
+Método de cifrado: TLS
+
+SMTP
+Nombre de servidor: smtp.office365.com
+Puerto: 587
+Método de cifrado: STARTTLS
